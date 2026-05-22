@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 matplotlib
-h2o
+h2o==3.46.0.6
 fpdf

@@ -2,7 +2,7 @@
 
 # ❤️ Cardiovascular Risk Prediction System
 
-### 🧠 AI-Powered Cardiovascular Disease Prediction using AutoML + Explainable AI
+###  AI-Powered Cardiovascular Disease Prediction using AutoML + Explainable AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">

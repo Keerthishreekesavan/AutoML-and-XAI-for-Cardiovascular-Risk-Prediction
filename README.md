@@ -530,9 +530,7 @@ Use:
 ```python
 map()
 ```
-
 ---
-
 # 🚀 Future Enhancements
 
 - 📱 Mobile Application

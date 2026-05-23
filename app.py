@@ -320,8 +320,7 @@ if submitted:
         "Threshold": [thresholds[k] for k in values],
         "Status": ["✅ Safe" if values[k] <= thresholds[k] else "⚠️ Risky" for k in values]
     })
-    st.dataframe(risk_df.style.applymap(lambda v: "color: red;" if "Risky" in str(v) else "color: green;", subset=["Status"]))
-
+    st.dataframe(risk_df)
     st.download_button("📄 Download SHAP CSV", shap_values.as_data_frame().to_csv(index=False), file_name="shap_values.csv")
 
     from io import BytesIO

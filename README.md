@@ -591,11 +591,3 @@ If you like this project:
 - 🚀 Contribute improvements
 
 ---
-
-<div align="center">
-
-# ❤️ Predict • Prevent • Protect
-
-### AI + AutoML + Explainable Healthcare Intelligence
-
-</div>
